@@ -1,16 +1,28 @@
-### Hi there 👋
+# Ciao! 👋
 
-<!--
-**Trainax/Trainax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Il mio nome è Davide, sono un programmatore freelance e studio Ingegneria Elettronica. Sul mio profilo potete trovare i miei progetti. Potete trovare altri progetti nel <a href="https://repl.it/@Trainax">mio profilo su Repl.it</a>
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trainax&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Trainax&show_icons=true&count_private=true&theme=dark"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologie
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
+
+## 📧 Contatti
+
+Potete contattarmi tramite la mail indicata sul profilo o su <a href="https://www.linkedin.com/in/Trainax">LinkedIn</a>
