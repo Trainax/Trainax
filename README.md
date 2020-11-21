@@ -1,10 +1,8 @@
 # Ciao! 👋
-
-Il mio nome è Davide, sono un programmatore freelance e studio Ingegneria Elettronica. Qui sul mio profilo potete trovare i miei progetti. Potete trovare altri progetti anche nel <a href="https://repl.it/@Trainax">mio profilo su Repl.it</a>
+Il mio nome è Davide, sono un programmatore freelance e studio ingegneria elettronica e delle telecomunicazioni. Qui sul mio profilo GitHub potete trovare i miei progetti. Potete trovarne altri anche nel [mio profilo su Repl.it](https://repl.it/@Trainax)
 
 ## 📈 Statistiche del mio profilo GitHub
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trainax&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Trainax&show_icons=true&count_private=true&theme=dark"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trainax&theme=dark) ![](https://github-readme-stats.vercel.app/api?username=Trainax&show_icons=true&count_private=true&theme=dark)
 
 ## 🔧 Tecnologie
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -25,5 +23,4 @@ Il mio nome è Davide, sono un programmatore freelance e studio Ingegneria Elett
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
 
 ## 📧 Contatti
-
-Potete contattarmi tramite la e-mail indicata sul profilo GitHub o su <a href="https://www.linkedin.com/in/Trainax">LinkedIn</a>
+Tutti i miei contatti sono indicati nel mio [sito web](https://trainax.github.io), in ogni caso potete sempre contattarmi usando la e-mail indicata sul profilo GitHub oppure tramite [LinkedIn](https://www.linkedin.com/in/Trainax)
